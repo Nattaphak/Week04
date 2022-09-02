@@ -1,0 +1,15 @@
+D:\Week04\obj\Debug\net6.0\Week04.csproj.AssemblyReference.cache
+D:\Week04\obj\Debug\net6.0\Week04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Week04\obj\Debug\net6.0\Week04.AssemblyInfoInputs.cache
+D:\Week04\obj\Debug\net6.0\Week04.AssemblyInfo.cs
+D:\Week04\obj\Debug\net6.0\Week04.csproj.CoreCompileInputs.cache
+D:\Week04\bin\Debug\net6.0\Week04.exe
+D:\Week04\bin\Debug\net6.0\Week04.deps.json
+D:\Week04\bin\Debug\net6.0\Week04.runtimeconfig.json
+D:\Week04\bin\Debug\net6.0\Week04.dll
+D:\Week04\bin\Debug\net6.0\Week04.pdb
+D:\Week04\obj\Debug\net6.0\Week04.dll
+D:\Week04\obj\Debug\net6.0\refint\Week04.dll
+D:\Week04\obj\Debug\net6.0\Week04.pdb
+D:\Week04\obj\Debug\net6.0\Week04.genruntimeconfig.cache
+D:\Week04\obj\Debug\net6.0\ref\Week04.dll
